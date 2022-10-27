@@ -11,4 +11,4 @@
 5. Записываем новый заполненый массив как результат.
 
 ## Блок схема
-![Блок схема](D:\Geek Brains\С#\итоговый\Control_work\Block_diagram.jpg)
+![Блок схема](https://github.com/kot-in-ka/Control_work/blob/main/Block_diagram.jpg)
