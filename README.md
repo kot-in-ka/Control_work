@@ -5,3 +5,6 @@
 
 ## Блок схема
 ![Блок схема](https://github.com/kot-in-ka/Control_work/blob/main/Block_diagram.jpg)
+
+## Программа
+https://github.com/kot-in-ka/Control_work/blob/main/program/Program.cs
